@@ -1,0 +1,18 @@
+* {
+    font-family: segoe 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: center;
+}
+
+label {
+    display: table;
+    padding: 10px;
+}
+
+input {
+    padding: 5px;
+}
+
+input[type="text"]{
+    max-width: 400px;
+    width: 100%;
+}
